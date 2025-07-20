@@ -1,4 +1,10 @@
 [
+   {
+    "icao": "ARB",
+    "name": "Fly Arbuz Air",
+    "callsign": "Alfa Romeo Bravo",
+    "virtual": true
+  },
   {
     "icao": "PHP",
     "name": "Phantom Airways",
