@@ -780,6 +780,12 @@
     "virtual": false
   },
   {
+    "icao": "ARB",
+    "name": "Fly Arnuz Airlines",
+    "callsign": "Alpha Romeo Bravo",
+    "virtual": true
+  },
+  {
     "icao": "PBD",
     "name": "POBEDA",
     "callsign": "POBEDA",
