@@ -6,6 +6,12 @@
     "virtual": true
   },
   {
+    "icao": "ARB",
+    "name": "FLY ARBUZ AIRWAYS",
+    "callsign": "ALPHA ROMEO BRAVO",
+    "virtual": true
+  },
+  {
     "icao": "SBI",
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
