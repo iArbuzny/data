@@ -5,6 +5,12 @@
     "callsign": "Paramount",
     "virtual": true
   },
+   {
+    "icao": "ARB",
+    "name": "Fly Arbuz Airlines",
+    "callsign": "Alpha Romeo Bravo",
+    "virtual": true
+  },
   {
     "icao": "CWG",
     "name": "Chickenwings Virtual Airline",
